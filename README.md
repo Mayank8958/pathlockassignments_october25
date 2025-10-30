@@ -54,9 +54,9 @@ npm run dev
 
 ---
 
-## Contact / Submission
+## Submission by
 
-* **Author:** Mayank Sajnani
+* **Author:** Mayank Sajnani - 22105102
 * **GitHub:** `https://github.com/Mayank8958/pathlock_assignments`
 * **Email:** [mayanksajnani.bt22ece@pec.edu.in](mailto:mayanksajnani.bt22ece@pec.edu.in)
 
