@@ -1,0 +1,32 @@
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.user
+*.suo
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# .NET / Backend
+**/bin/
+**/obj/
+*.db
+*.db-shm
+*.db-wal
+.vs/
+
+# Tests
+backend.tests/bin/
+backend.tests/obj/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+

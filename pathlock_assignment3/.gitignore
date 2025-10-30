@@ -1,0 +1,19 @@
+# Backend
+backend/bin/
+backend/obj/
+backend/app.db
+backend/Migrations/
+
+# Tests
+backend.Tests/bin/
+backend.Tests/obj/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
